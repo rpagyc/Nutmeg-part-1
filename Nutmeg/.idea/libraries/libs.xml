@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Nutmeg-android/libs/gdx-backend-android-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Nutmeg-android/libs/gdx-backend-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Nutmeg-android/libs/flixel-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Nutmeg-android/libs/flixel-android-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Nutmeg-desktop/libs" />
+      <root url="file://$PROJECT_DIR$/../Nutmeg-android/assets" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Nutmeg-desktop/libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../Nutmeg-desktop/libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../Nutmeg-desktop/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
